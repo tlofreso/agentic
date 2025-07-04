@@ -4,3 +4,7 @@
  - Human in the Loop async
  - Call a tool for input
  - Call a tool for output
+
+## Security
+ - Consider arxiv paper
+ - redteam
